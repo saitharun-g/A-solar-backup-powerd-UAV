@@ -6,7 +6,7 @@ This project introduces a solar backup-powered Unmanned Aerial Vehicle (UAV) tai
 ---
 
 ### Authors
-- G Sai Tharun (21341A0226)
+- G Sai Tharun
 
 
 **Guide:** Dr. V. Manoj, Professor, Department of EEE
